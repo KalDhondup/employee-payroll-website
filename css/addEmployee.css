@@ -223,4 +223,7 @@ a.button.hover {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+    .row-content {
+        flex-wrap : wrap;
+    }
 }
